@@ -6,7 +6,7 @@ This gem wraps the jQuery context menu plug-in (https://github.com/medialize/jQu
 
 To include the plug-in in your rails application, modify your Gemfile to includ the following:
 
-    gem "jquery_context_menu-rails"
+    gem "jquery_context_menu-rails4"
 
 Next add the following line to app/assets/javascripts/application.js:
 
